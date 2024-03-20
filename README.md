@@ -36,6 +36,8 @@ To start the node server
 
 
 ## Screenshots
+![0](https://github.com/N6si/Chat-App/assets/163670693/144a6ae2-f935-4790-a50d-81d7c7aede31)
+![op](https://github.com/N6si/Chat-App/assets/163670693/1de64524-1216-4a39-a65b-45fedf377cda)
 
 
 
